@@ -1,5 +1,5 @@
 * [Introduction](/)
-* [Quick Start](quick-start/main.md)
+* [Quick Start](quickstart.md)
 * [Roadmap](roadmap.md)
 * [Token](tokenomics/README.md)
 
