@@ -2,7 +2,8 @@
 * [Quick Start](quickstart.md)
 
 TOKENOMICS
-* [Token](tokenomics.md)
+* [CWD Token](tokenomics.md)
+* [How to get CWD?](market.md)
 
 INTERFACE
 * [Overview](overview/overview.md)
