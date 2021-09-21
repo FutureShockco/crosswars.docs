@@ -21,9 +21,12 @@ INTERFACE
 
 GAMEPLAY
 * [Production](production.md)
+* [Buildings](buildings.md)
 * [Resources](resources.md)
+* [Defense](defense.md)
 * [Jobs](jobs.md)
 * [Gangs](gangs.md)
+* [Formulas](formulas.md)
 
 MISCELLANEOUS
 * [Roadmap](roadmap.md)
