@@ -2,7 +2,7 @@
 
 ## MetaMask Wallet Setup
 
-<b>Downloading and Installing MetaMask</b>
+<head>Downloading and Installing MetaMask</head>
 
 MetaMask can be downloaded as a browser extension on any compatible browser.
 The links to download MetaMask can be found here for Chrome Web Store, Firefox Add-ons, Brave browser. and Edge Add-ons.
