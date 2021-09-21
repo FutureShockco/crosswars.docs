@@ -2,7 +2,7 @@
 
 Yoooo
 
-### How to play?
+### MetaMask Wallet Setup
 
 Nice
 
