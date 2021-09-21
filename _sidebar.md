@@ -9,7 +9,7 @@
 ## Tokenomics
 
 * [Token](tokenomics/README.md)
-  * [Token Tokenomics](tokenomics/token-tokenomics.md)
+  * [Token Tokenomics](tokenomics/token.md)
   * [Token supply](tokenomics/token-supply.md)
 
 
