@@ -24,7 +24,7 @@ MetaMask can also be installed on Android, and iOS.
 2. Click on the **“Get Started”** button
 3. Select **“Create a Wallet”** and create a password
 4. Write down, store, or memorize your Secret Backup Phrase
-5. Confirm your Secret Backup Phrase to ensure you have it correct
-  
- :warning: **DO NOT** share this phrase with anyone! These words can be used to steal all your accounts. You can't edit or change your Secret Recovery Phrase.        
+5. Confirm your Secret Backup Phrase to ensure you have it correct 
+
+:warning: **DO NOT** share this phrase with anyone! These words can be used to steal all your accounts. You can't edit or change your Secret Recovery Phrase.        
 
