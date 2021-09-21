@@ -2,7 +2,9 @@
 
 Welcome to the CrossWars game documentation website.
 
-Access to CrossWars throught the official game [web app](https://crosswars.io/#/).
+<img src="../img/cwlogo.png" alt="logo" width="500"/>
+
+[Click here to access throught the official web app](https://crosswars.io/#/).
 
 ## What is CrossWars?
 CrossWars is a massively multiplayer strategy game based on blockchain.
