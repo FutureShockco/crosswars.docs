@@ -25,5 +25,5 @@ Here is how to set up and install MetaMask on a desktop browser:
 <li>Write down, store, or memorize your Secret Backup Phrase</li>
 <li>Confirm your Secret Backup Phrase to ensure you have it correct</li></ol>
   
-| :warning: DO NOT share this phrase with anyone! These words can be used to steal all your accounts. You can't edit or change your Secret Recovery Phrase.        |
-|:---------------------------|
+ :warning: DO NOT share this phrase with anyone! These words can be used to steal all your accounts. You can't edit or change your Secret Recovery Phrase.        
+
