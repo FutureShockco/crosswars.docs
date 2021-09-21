@@ -6,16 +6,18 @@ TOKENOMICS
 * [How to get CWD?](market.md)
 
 INTERFACE
-* [Overview](overview/overview.md)
-* [Buildings](overview/buildings.md)
-* [Bootcamp](overview/bootcamp.md)
-* [Actions](overview/actions.md)
-* [Map](overview/map.md)
-* [Leaderboard](overview/leaderboard.md)
-* [Gangs](overview/gangs.md)
-* [Jobs](overview/jobs.md)
-* [Nfts](overview/nfts.md)
-* [Prizes](overview/prizes.md)
+* [Overview](interface/overview.md)
+* [Buildings](interface/buildings.md)
+* [Units](interface/units.md)
+* [Actions](interface/actions.md)
+* [Map](interface/map.md)
+* [Hall of Fame](interface/leaderboards.md)
+* [Gangs](interface/gangs.md)
+* [Jobs](interface/jobs.md)
+* [Nfts](interface/nfts.md)
+* [Prizes](interface/prizes.md)
+* [Shop](interface/shop.md)
+* [Settings](interface/settings.md)
 
 GAMEPLAY
 * [Production](production.md)

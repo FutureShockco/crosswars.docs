@@ -1,8 +1,8 @@
 ## Introduction
 
-DrugWars is an online game built on blockchain technology that combines MMORPG and MMORTS into one PvP gaming experience that provides monetized prizes that are awarded daily. Players receive cryptocurrency for their achievements in the game every 24 hours. Playing the game is currently completely free of charge although there are options of payment to speed up various game components and increase the chances of receiving a bigger payout at the end of the day. The player can choose in which cryptocurrency he or she will receive the prize while the default currency is set on that one of the DrugWars game.
+CrossWars is an online game built on blockchain technology that combines MMORPG and MMORTS into one PvP gaming experience that provides monetized prizes that are awarded daily. Players receive cryptocurrency for their achievements in the game every 24 hours. Playing the game is currently completely free of charge although there are options of payment to speed up various game components and increase the chances of receiving a bigger payout at the end of the day. The player can choose in which cryptocurrency he or she will receive the prize while the default currency is set on that one of the CrossWars game.
 
-DrugWars game has been brought to you by Futureshock which already has successful projects in their history such as Fundition, a first blockchain based crowdfunding platform that you can visit here: https://fundition.io.
+CrossWars game has been brought to you by Futureshock which already has successful projects in their history such as Fundition, a first blockchain based crowdfunding platform that you can visit here: https://fundition.io.
 
 ### General info
 
@@ -12,13 +12,13 @@ The game is available at https://drugwars.io/ while there is also a discord cha
 
 ![](/img/help/image47.jpg)
 
-To be able to play the game, a person needs to log in or sign up. This is possible by connecting the DrugWars account with those on Facebook, Google, Vkontakte, or Steemit through the services of Steem Connect. Logging in to the game is completely free of charge. To log in, visit https://drugwars.io/ and click on Login, when the screen with different login options appears, click on the one you prefer and follow the logical instructions.
+To be able to play the game, a person needs to log in or sign up. This is possible by connecting the CrossWars account with those on Facebook, Google, Vkontakte, or Steemit through the services of Steem Connect. Logging in to the game is completely free of charge. To log in, visit https://drugwars.io/ and click on Login, when the screen with different login options appears, click on the one you prefer and follow the logical instructions.
 
 Once a player is logged in, he or she can continue to personalize his account and settings by choosing a nickname, profile picture, and alert options. There is also a referral link available which can be sent to people so the player receives an additional bonus.
 
 ## User Settings
 
-Settings are located in the bottom left menu on the DrugWars platform.
+Settings are located in the bottom left menu on the CrossWars platform.
 
 ### Settings
 
@@ -26,7 +26,7 @@ Once a player clicks on the Settings, the following screen will appear in the ma
 
 ![](/img/help/image101.jpg)
 
-Players can change their nicknames no more than once a month and they can not do it for two days after their last started battle with other players. The profile picture is added by pasting down the image location a.k.a. image address. You can do this by the right click of your mouse on the image you want and choosing “copy image address”. Make sure that you use the image that is not protected by any copyright laws. DrugWars will not be responsible for any violations of copyrights done by its players.
+Players can change their nicknames no more than once a month and they can not do it for two days after their last started battle with other players. The profile picture is added by pasting down the image location a.k.a. image address. You can do this by the right click of your mouse on the image you want and choosing “copy image address”. Make sure that you use the image that is not protected by any copyright laws. CrossWars will not be responsible for any violations of copyrights done by its players.
 
 ![](/img/help/image2.jpg)
 
@@ -43,17 +43,17 @@ Next to Settings in the main Settings frame, there is a Referral button. When yo
 Share your referral link with your friends and receive the bonus, all you need to do is copy it and send it. When your friend clicks on that referral link, they will go through the registration process. Once they finish it, you will see their info under “YOUR REFERRALS”. There is no limit to how many players you can refer to the game.
 
 
-## DrugWars platform appearance
+## CrossWars platform appearance
 
-DrugWars platform is available at https://drugwars.io/ and once you are logged in, the following screen will appear:
+CrossWars platform is available at https://drugwars.io/ and once you are logged in, the following screen will appear:
 
 ![](/img/help/image5.jpg)
 
-On the platform, you will see the following elements: functional banner with your production info at the top, your icon with rank and level on the left with two menus underneath it, links area under menus, the main frame in the middle and the right banner that is split in two with prizes and heist info. There is also a collapsed window of DrugWars live chat in the bottom right corner. Whatever you do on the platform, only the main frame will change its appearance, all the menus and banners will remain in their places while your interactions will result in showing you different content in the frame.
+On the platform, you will see the following elements: functional banner with your production info at the top, your icon with rank and level on the left with two menus underneath it, links area under menus, the main frame in the middle and the right banner that is split in two with prizes and heist info. There is also a collapsed window of CrossWars live chat in the bottom right corner. Whatever you do on the platform, only the main frame will change its appearance, all the menus and banners will remain in their places while your interactions will result in showing you different content in the frame.
 
 ## Production Banner
 
-At the very top of the DrugWars platform, there is a production banner that has information about your current production of resources. You can see how many drugs/weapons/alcohol you have with information about how much you produce daily and how much is in your safe. Your daily bonus production is displayed after your production number as “+xxx K/DAY”. The three xxx representing the bonus amount. You are also informed about your daily production of drugs in the line beneath your production info. Your prize is calculated based on the overall drug production in the game which is also presented in that text line. You can see how much you will get for your prize and if you have a Steem account, the amount in your Steem wallet will be on the right.
+At the very top of the CrossWars platform, there is a production banner that has information about your current production of resources. You can see how many drugs/weapons/alcohol you have with information about how much you produce daily and how much is in your safe. Your daily bonus production is displayed after your production number as “+xxx K/DAY”. The three xxx representing the bonus amount. You are also informed about your daily production of drugs in the line beneath your production info. Your prize is calculated based on the overall drug production in the game which is also presented in that text line. You can see how much you will get for your prize and if you have a Steem account, the amount in your Steem wallet will be on the right.
 
 ![](/img/help/image80.jpg)
 
@@ -506,7 +506,7 @@ Units have the following attributes:
 6.  Defensive -> Health: The hit points a unit can take before being killed.
 7.  Defensive -> Resistance: This is the “shielding” value for the unit.
 8.  Extra -> Speed: The amount of time it takes to transport the unit. Transporting 1 unit takes this amount of time and transporting 100 of the same unit also takes this amount of time. Increasing or decreasing the number of the unit does not change the time requirement.
-9.  Extra -> Move Cost: This is the cost, in Drugs, to move each unit. Moving one unit will cost the stated value. Moving 100 unites will cost the value * 100.
+9.  Extra -> Move Cost: This is the cost, in Cash, to move each unit. Moving one unit will cost the stated value. Moving 100 unites will cost the value * 100.
 
 The name of each unit is followed by a category, either Melee or Range. Malee units are more the hand-to-hand combat units while the Range units attack from a distance.
 
@@ -625,17 +625,17 @@ The help part Frequently Asked Questions has appropriate answers below each ques
 
 ![](/img/help/image63.jpg)
 
-The Get started has basic and general advice about what you should do once you start playing the game. It will tell you to produce resources, build units, and attack other players. It will also wish you luck and remind you that this is a game and all is fair. DrugWars is not responsible for any psychological problems or addictions. If you notice that playing the game is keeping you from your normal life and activities, please seek professional help.
+The Get started has basic and general advice about what you should do once you start playing the game. It will tell you to produce resources, build units, and attack other players. It will also wish you luck and remind you that this is a game and all is fair. CrossWars is not responsible for any psychological problems or addictions. If you notice that playing the game is keeping you from your normal life and activities, please seek professional help.
 
 #### 2.2.11.3 Guides
 
 ![](/img/help/image27.jpg)
 
-Guides will regularly be updated with links to guides which were created by the community of DrugWars for the community of DrugWars. If you have built a guide that you think can help other players, feel free to contact us and send us the link. We will see if your work is of quality and beneficial to other players.
+Guides will regularly be updated with links to guides which were created by the community of CrossWars for the community of CrossWars. If you have built a guide that you think can help other players, feel free to contact us and send us the link. We will see if your work is of quality and beneficial to other players.
 
 ### 2.2.12 Forum
 
-DrugWars has its official forum that can be reached either by clicking on the Forum in the bottom left menu or by visiting the link: https://drugwars.tokenbb.io/ (the page that the button in the menu will open in a new tab once you click on it). The forum needs your login that can be done by your Steem account credentials, SteemConnect, Google or Facebook account or with your e-mail.
+CrossWars has its official forum that can be reached either by clicking on the Forum in the bottom left menu or by visiting the link: https://drugwars.tokenbb.io/ (the page that the button in the menu will open in a new tab once you click on it). The forum needs your login that can be done by your Steem account credentials, SteemConnect, Google or Facebook account or with your e-mail.
 
 ![](/img/help/image119.jpg)
 
@@ -647,31 +647,31 @@ The last thing in the left menu area is the logout button. When you click on it,
 
 ### 2.2.12 Links area![](/img/help/image31.jpg)
 
-There are several links in the link area. You can vote for Futureshock (creators of DrugWars) as a steem witness, control the game sound, learn about the game and visit DrugWars on Discord and Github. Links to sites outside DrugWars will be opened in new tabs and your game will not be disturbed while those connected with the game will open in the main frame of the game.
+There are several links in the link area. You can vote for Futureshock (creators of CrossWars) as a steem witness, control the game sound, learn about the game and visit CrossWars on Discord and Github. Links to sites outside CrossWars will be opened in new tabs and your game will not be disturbed while those connected with the game will open in the main frame of the game.
 
 #### 2.2.12.1 Future Witness
 
-Steem blockchain has witnesses. They are people who operate a witness server where blocks are being produced. Witnesses produce blocks, maintain a price feed, play the role of consensus, and work on different things to help Steem function, grow and evolve. Witnesses get voted into their positions by Steem users and each steem user gets 30 votes. You can check the witness list and vote here: https://steemit.com/~witnesses. FutureShock, as the creator of DrugWars, is also a witness on steem blockchain. If you click on the provided link Vote for @future.witness and support DrugWars it will direct you to SteemConnect where you can easily cast your vote by following a simple procedure. DrugWars team would appreciate it if you give us your vote.
+Steem blockchain has witnesses. They are people who operate a witness server where blocks are being produced. Witnesses produce blocks, maintain a price feed, play the role of consensus, and work on different things to help Steem function, grow and evolve. Witnesses get voted into their positions by Steem users and each steem user gets 30 votes. You can check the witness list and vote here: https://steemit.com/~witnesses. FutureShock, as the creator of CrossWars, is also a witness on steem blockchain. If you click on the provided link Vote for @future.witness and support CrossWars it will direct you to SteemConnect where you can easily cast your vote by following a simple procedure. CrossWars team would appreciate it if you give us your vote.
 
 #### 2.2.12.2 Sound control
 
-By clicking on the sound icon ![](/img/help/image132.jpg) you control whether or not you want to experience the DrugWars game with a little music being played in the background. You can change that preference whenever you want. For your alerts of the upcoming attacks to work, the sound feature must be turned on.
+By clicking on the sound icon ![](/img/help/image132.jpg) you control whether or not you want to experience the CrossWars game with a little music being played in the background. You can change that preference whenever you want. For your alerts of the upcoming attacks to work, the sound feature must be turned on.
 
 #### 2.2.12.3 About
 
-The question mark link ![](/img/help/image88.jpg)will open the about content in the main frame. Here you can read the basic info, download the logo or report a bug. It also shows the changelog info and the DrugWars catchphrase and motto: “The drugs are virtual but the money is real”.
+The question mark link ![](/img/help/image88.jpg)will open the about content in the main frame. Here you can read the basic info, download the logo or report a bug. It also shows the changelog info and the CrossWars catchphrase and motto: “The drugs are virtual but the money is real”.
 
 #### 2.2.12.4 Discord link
 
-Discord is a proprietary freeware VoIP application that allows its users to communicate through text, image, video, and audio. DrugWars has its Discord server with many different rooms. It is designed in a way that allows our players to communicate with each other and get regular and relevant information about the game. It is free and simple to use with the moderation of language done by DrugWars officers so that communication does not fall into the uncivilized gutter. You can join DrugWars discord by clicking on the link ![](/img/help/image11.jpg) that is present on the platform and directs to https://discord.gg/vwzAdva.
+Discord is a proprietary freeware VoIP application that allows its users to communicate through text, image, video, and audio. CrossWars has its Discord server with many different rooms. It is designed in a way that allows our players to communicate with each other and get regular and relevant information about the game. It is free and simple to use with the moderation of language done by CrossWars officers so that communication does not fall into the uncivilized gutter. You can join CrossWars discord by clicking on the link ![](/img/help/image11.jpg) that is present on the platform and directs to https://discord.gg/vwzAdva.
 
 #### 2.2.12.5 Github link
 
-DrugWars game is completely open sourced and transparent which means that any player is free to check out the code behind the game and follow through how the game is being developed. If you click on the last link ![](/img/help/image124.jpg) it will open the Github page of Futureshock https://github.com/FutureShockco in a new tab.
+CrossWars game is completely open sourced and transparent which means that any player is free to check out the code behind the game and follow through how the game is being developed. If you click on the last link ![](/img/help/image124.jpg) it will open the Github page of Futureshock https://github.com/FutureShockco in a new tab.
 
 ## 2.3 Right menu
 
-DrugWars is a game that financially rewards its players in cryptocurrency. The amount that is awarded each day is presented in the right menu which is composed of the Daily prizes info in 3 parts and the Heist. Prizes are independent of each other so each player can get a reward in all 4 categories or in none at all depending on his or her achievements in the game. The prizes are given every 24 hours and directly sent to players' DrugWars account.
+CrossWars is a game that financially rewards its players in cryptocurrency. The amount that is awarded each day is presented in the right menu which is composed of the Daily prizes info in 3 parts and the Heist. Prizes are independent of each other so each player can get a reward in all 4 categories or in none at all depending on his or her achievements in the game. The prizes are given every 24 hours and directly sent to players' CrossWars account.
 
 ### 2.3.1 Daily prizes info
 
@@ -687,7 +687,7 @@ Daily prize is the award a player gets based on drug production. It is calculate
 
 #### 2.3.1.2 Fight Prize
 
-Fight prize is the prize a player gets based on how much he or she has reduced the population. In DrugWars, each unit has a supply characteristic. Population of DrugWars is calculated by multiplying a unit with its supply and adding up all those together from all units of all players. By participating in battles, a winning player kills units from other players, those units multiplied by their supply are the amount by which the overall population has been reduced. Since different units have different supplies, it is not the same to kill 100 Hobos (supply = 100*1 = 100) and 100 Ninjas (supply = 100*5 = 500) for example. At the end of each day, results from all the battles a player has won get added together and based on the total reduction of DrugWars population, a player gets rewarded. The info about current DrugWars population is below the prizes info in the right menu,
+Fight prize is the prize a player gets based on how much he or she has reduced the population. In CrossWars, each unit has a supply characteristic. Population of CrossWars is calculated by multiplying a unit with its supply and adding up all those together from all units of all players. By participating in battles, a winning player kills units from other players, those units multiplied by their supply are the amount by which the overall population has been reduced. Since different units have different supplies, it is not the same to kill 100 Hobos (supply = 100*1 = 100) and 100 Ninjas (supply = 100*5 = 500) for example. At the end of each day, results from all the battles a player has won get added together and based on the total reduction of CrossWars population, a player gets rewarded. The info about current CrossWars population is below the prizes info in the right menu,
 
 ![](/img/help/image99.jpg)
 
@@ -699,7 +699,7 @@ Heist prize is the award a player gets by participating in the heist. Each day, 
 
 Every player has an option to invest drugs in the heist every day. It is done simply by entering the amount in the white space and clicking on Deposit. If a player wants to invest all drugs, there is a button Deposit all for that. A player can deposit drugs as many times as he wants during the day but those drugs that were invested cannot be gotten back.
 
-## 2.4\. DrugWars Live Chat
+## 2.4\. CrossWars Live Chat
 
 ![](/img/help/image68.jpg)
 
@@ -709,16 +709,16 @@ Live chat is located in the bottom right corner and it is collapsed by default. 
 
 ## Gameplay
 
-There are 3 main components of gameplay in DrugWars. As a player, you can produce, battle against other players, and participate in heists. Each of those components is a complex time managed part of the game with various parts to take into consideration. The components are also intertwined and there is no one without the other. You can not battle unless you produce units just as you can not participate in the heist if you do not have any drug resources produced.
+There are 3 main components of gameplay in CrossWars. As a player, you can produce, battle against other players, and participate in heists. Each of those components is a complex time managed part of the game with various parts to take into consideration. The components are also intertwined and there is no one without the other. You can not battle unless you produce units just as you can not participate in the heist if you do not have any drug resources produced.
 
 
 ## 4\. Gangs
 
-DrugWars can be played individually, as a single player with no ties to anyone. It can also be played with cooperation with others in groups that are called gangs. A player does not have to be a part of the gang to be able to play DrugWars but if he or she so chooses, there is no option of being in more than one gang. Once you are in a gang, you can still play as you would if you were not a part of it. You do not lose anything, you only gain. Different gangs have different rules of play and operate in various styles when it comes to wars and alliances with other gangs and there are many benefits a player gets by being a part of the gang. If you are in a gang, you do get a certain level of protection by other gang members in battles and your production of resources and units gets faster by gang buildings so your individual play benefits as well. You can create your own gang or join an existing one that is open to new members. There is currently a limit to how many members a gang can have that is set to 100\. Each gang has 3 different roles for members, boss, capo, and soldier. There is only one gang boss who assigns capo roles to soldiers. The boss upgrades gang buildings and has the final word in everything, capos are above soldiers and below boss in the chain of command while the soldiers are the lowest in the hierarchy. To learn where the gang information is located in the game and read the instructions of creating or joining the gang, click here: GANGS.
+CrossWars can be played individually, as a single player with no ties to anyone. It can also be played with cooperation with others in groups that are called gangs. A player does not have to be a part of the gang to be able to play CrossWars but if he or she so chooses, there is no option of being in more than one gang. Once you are in a gang, you can still play as you would if you were not a part of it. You do not lose anything, you only gain. Different gangs have different rules of play and operate in various styles when it comes to wars and alliances with other gangs and there are many benefits a player gets by being a part of the gang. If you are in a gang, you do get a certain level of protection by other gang members in battles and your production of resources and units gets faster by gang buildings so your individual play benefits as well. You can create your own gang or join an existing one that is open to new members. There is currently a limit to how many members a gang can have that is set to 100\. Each gang has 3 different roles for members, boss, capo, and soldier. There is only one gang boss who assigns capo roles to soldiers. The boss upgrades gang buildings and has the final word in everything, capos are above soldiers and below boss in the chain of command while the soldiers are the lowest in the hierarchy. To learn where the gang information is located in the game and read the instructions of creating or joining the gang, click here: GANGS.
 
 ## 4.1 Creating a gang
 
-Instructions for creating a gang are located here: Create gang. If you have enough resources, you can start your own gang, name it as you wish and assign a logo to it. DrugWars discord server is at your service and will provide a chat room for your gang where you can talk to other members, discuss strategy and gameplay. This is also the place where you can go into more details when it comes to approving applications of your new potential members. When you create a gang, you become its gang boss and can assign capo roles to your soldiers which will give them more power and authority over your gang. Consider alliances with other gangs and build a strong gang before starting wars with others to assure your victory.
+Instructions for creating a gang are located here: Create gang. If you have enough resources, you can start your own gang, name it as you wish and assign a logo to it. CrossWars discord server is at your service and will provide a chat room for your gang where you can talk to other members, discuss strategy and gameplay. This is also the place where you can go into more details when it comes to approving applications of your new potential members. When you create a gang, you become its gang boss and can assign capo roles to your soldiers which will give them more power and authority over your gang. Consider alliances with other gangs and build a strong gang before starting wars with others to assure your victory.
 
 ## 4.2 Joining a gang
 

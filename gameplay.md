@@ -1,9 +1,9 @@
 
 ## Units
 
-Units are expendable pieces of the DrugWars game. They are purchased, trained and used in battles. When a unit dies in battle, the player's number of that unit decreases by the number that had just died but he can buy more as often and as much as he wants. There is no limit to quantity or quality of the units.To be able to purchase units, a player must first have the Training facility building and if he wants to train them then he needs to have the Research Center. Both of those buildings are office buildings and can be upgraded accordingly.
+Units are expendable pieces of the CrossWars game. They are purchased, trained and used in battles. When a unit dies in battle, the player's number of that unit decreases by the number that had just died but he can buy more as often and as much as he wants. There is no limit to quantity or quality of the units.To be able to purchase units, a player must first have the Training facility building and if he wants to train them then he needs to have the Research Center. Both of those buildings are office buildings and can be upgraded accordingly.
 
-Each unit is unique in her skill set and cost. Some units are malee which means they are for close combat while some are range or battling from a distance. Units are the only thing in the DrugWars game that have a number over the picture that does not stand for level. Whenever you see a number over an image in DrugWars with buildings or training, it represents the level while with units, it represents the number of units that a player currently has.
+Each unit is unique in her skill set and cost. Some units are malee which means they are for close combat while some are range or battling from a distance. Units are the only thing in the CrossWars game that have a number over the picture that does not stand for level. Whenever you see a number over an image in CrossWars with buildings or training, it represents the level while with units, it represents the number of units that a player currently has.
 
 Each unit has the following information next to it: picture and number of units a player has over it, description and info about unique abilities, cost in resources, supply, offense and resistance skills, time needed for time managed recruitment, and the cost for recruitment paid with crypto. Time needed for time managed recruitment can be shortened with higher levels of Training Facility building.
 
@@ -165,7 +165,7 @@ Every player has one free base location to choose. That primary base has no requ
 
 ![](/img/help/image42.jpg)
 
-When you log into the DrugWars game, it will tell you how you need to choose a location on the map first. Until you do that, you will not be able to play the game or see the resources that you have. You can either click on the green link under your image that says "SELECT THE LOCATION" or click on the map in the left menu. Both will get you to the same place, they will open the rotating world map with hexagons on it.
+When you log into the CrossWars game, it will tell you how you need to choose a location on the map first. Until you do that, you will not be able to play the game or see the resources that you have. You can either click on the green link under your image that says "SELECT THE LOCATION" or click on the map in the left menu. Both will get you to the same place, they will open the rotating world map with hexagons on it.
 
 To pick your primary base, click on the map in the left menu. When the world map appears in the main frame you can either watch how it spins and look at different territories or you can click and drag your mouse to rotate it manually. When you click on any hexagon territory, a small window will pop-up next to it with the information on how many bases are already in that territory and how many are free. Keep in mind that it is giving you information about bases, not players. If it says there are 4 bases there, it can mean that those 4 bases can be owned by 1,2,3, or 4 different players. When you have chosen your preferred territory, click on the hexagon that represents it.
 
@@ -201,7 +201,7 @@ Since you can station units from one base in another one, it would be silly that
 
 ## 3.3 Battles
 
-Battling against other players is the key feature of the DrugWars game. By attacking other players and by defending themselves against attacks, players can get rewarded in more than one way. Each battle will assure that some amount of resources from the opponent goes to the winner of the fight and based on how much he reduced the DrugWars population, players will receive additional daily reward in crypto. You can read about the rewards from battles here Battle prize.
+Battling against other players is the key feature of the CrossWars game. By attacking other players and by defending themselves against attacks, players can get rewarded in more than one way. Each battle will assure that some amount of resources from the opponent goes to the winner of the fight and based on how much he reduced the CrossWars population, players will receive additional daily reward in crypto. You can read about the rewards from battles here Battle prize.
 
 ### 3.3.1 Preparing for a battle
 
@@ -221,7 +221,7 @@ Once you have learned how many units your opponent has, and you know which units
 
 #### 3.3.1.4 Unit order and grouping
 
-When starting a fight, a player needs to know how there is an attack order among units. That order can be seen in units.json file of DrugWars GitHub and it goes like this: Spy, Hobo, Rowdy, Bouncer, Knifer, Big Mamma, Lawyer, Ninja, Gunman, Sniper, Hitman, Bazooka, Mercenary. This means that Bouncers, for example, will always attack before Gunman and so on.
+When starting a fight, a player needs to know how there is an attack order among units. That order can be seen in units.json file of CrossWars GitHub and it goes like this: Spy, Hobo, Rowdy, Bouncer, Knifer, Big Mamma, Lawyer, Ninja, Gunman, Sniper, Hitman, Bazooka, Mercenary. This means that Bouncers, for example, will always attack before Gunman and so on.
 
 The same units are grouped together, they fight together and their progress in the simulator is shown one after another. If a player goes into battle with 2 Super Bouncers, those 2 Super Bouncers will attack together and their information will be presented one line at a time.
 
@@ -245,7 +245,7 @@ The winner of the battle gets to loot the loser. The amount of resources the win
 
 ### 3.3.4 Sharing Battles
 
-Once a battle is over, players can share it in different social media networks: DrugWars forum, facebook, reddit, twitter, by creating a qr code, VK, and on Telegram. You first need to click on show more details when scrolling through previous battles and just under your rewards there will be a series of links you can click on to share your battle.
+Once a battle is over, players can share it in different social media networks: CrossWars forum, facebook, reddit, twitter, by creating a qr code, VK, and on Telegram. You first need to click on show more details when scrolling through previous battles and just under your rewards there will be a series of links you can click on to share your battle.
 
 ![](/img/help/image56.jpg)
 

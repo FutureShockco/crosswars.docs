@@ -3,11 +3,11 @@
 
 There are 3 types of resources in the game, drugs, weapons, and alcohol. Each resource is produced by its corresponding buildings. Each building has different amounts of resources needed for its production that rise with each level. When a player starts playing a game, he or she already has a small amount of each resource to start with. A player CAN NOT have infinite amounts of resources. The amounts of maximum resources are defined with storage buildings for every resource. The maximum level of any building is defined with the current level of headquarters. A building can not be upgraded to a level higher than the headquarters are currently. If headquarters are, for example, on level 5, all other buildings can go to level 5 and no higher until the HQ gets upgraded.
 
-TIP: While there are many ways to approach strategy in DrugWars, a good starting point is a ratio of 1:2:2, meaning 1 DRUG to 2 WEAPON to 2 ALCOHOL. So if you are producing 100k drugs, you want to be around 200k each of both weapons and alcohol.
+TIP: While there are many ways to approach strategy in CrossWars, a good starting point is a ratio of 1:2:2, meaning 1 DRUG to 2 WEAPON to 2 ALCOHOL. So if you are producing 100k drugs, you want to be around 200k each of both weapons and alcohol.
 
-## Drugs
+## Cash
 
-Drugs are the most important resource in the DrugWars game. Players receive their daily prize based on the amount of drugs they produce but they can get drugs by either producing or by stealing them from other players in battles. To ensure that their drugs do not get stolen, players can upgrade their Drug Storage building and keep a portion of their drug resource unavailable to steal. Each building has the following information: level of the building that is over the image, name, cost for the next upgrade in resource under the name and in crypto for instant upgrade, description, and the amount of production on current and next level per day. Each building associated with drugs requires all 3 resources for upgrades; drugs, weapons, and alcohol.
+Cash are the most important resource in the CrossWars game. Players receive their daily prize based on the amount of drugs they produce but they can get drugs by either producing or by stealing them from other players in battles. To ensure that their drugs do not get stolen, players can upgrade their Drug Storage building and keep a portion of their drug resource unavailable to steal. Each building has the following information: level of the building that is over the image, name, cost for the next upgrade in resource under the name and in crypto for instant upgrade, description, and the amount of production on current and next level per day. Each building associated with drugs requires all 3 resources for upgrades; drugs, weapons, and alcohol.
 
 ### Crack House
 
@@ -51,7 +51,7 @@ Drug Storage is limited to the level of the Headquarters. If the Headquarters is
 
 ## Weapons
 
-Weapons are the second resource in DrugWars. There are needed for upgrades of buildings and purchases of units. This resource (just as any other) can get stolen if a player loses a battle but he can keep a portion of it safe by upgrading his weapon storage. Each building has the following information: level of the building that is over the image, name, cost for the next upgrade in resource under the name and in crypto for instant upgrade, description, and the amount of production on current and next level per day. Each building associated with weapons requires resources of drugs and alcohols for its upgrade while the weapon storage needs all 3 resources.
+Weapons are the second resource in CrossWars. There are needed for upgrades of buildings and purchases of units. This resource (just as any other) can get stolen if a player loses a battle but he can keep a portion of it safe by upgrading his weapon storage. Each building has the following information: level of the building that is over the image, name, cost for the next upgrade in resource under the name and in crypto for instant upgrade, description, and the amount of production on current and next level per day. Each building associated with weapons requires resources of drugs and alcohols for its upgrade while the weapon storage needs all 3 resources.
 
 ### Ammunition Factory
 
@@ -95,7 +95,7 @@ Weapon Storage is limited to the level of the Headquarters. If the Headquarters 
 
 ## Alcohol
 
-Alcohol is the third resource in DrugWars. It is needed for upgrades of buildings and purchases of units. This resource (just as any other) can get stolen if a player loses a battle but he can keep a portion of it safe by upgrading his alcohol silo. Each building has the following information: level of the building that is over the image, name, cost for the next upgrade in resource under the name and in crypto for instant upgrade, description, and the amount of production on current and next level per day. Each building associated with alcohol requires resources of drugs and weapons for its upgrade while the alcohol silo needs all 3 resources.
+Alcohol is the third resource in CrossWars. It is needed for upgrades of buildings and purchases of units. This resource (just as any other) can get stolen if a player loses a battle but he can keep a portion of it safe by upgrading his alcohol silo. Each building has the following information: level of the building that is over the image, name, cost for the next upgrade in resource under the name and in crypto for instant upgrade, description, and the amount of production on current and next level per day. Each building associated with alcohol requires resources of drugs and weapons for its upgrade while the alcohol silo needs all 3 resources.
 
 ### Traditional Distillery
 
@@ -163,7 +163,7 @@ Operation center is linked to all resource production buildings. It works in a s
 
 ![](/img/help/image49.jpg)
 
-Pantheon is the only building in DrugWars that influences players' activity outside of the game instead of inside. After each battle, a player has an option to share his wins on social networks or DrugWars forum. If he chooses to share it or the forum, he may get a small reward in return. DrugWars team is upvoting DrugWars battle shares on forum and the higher the Pantheon level, the higher the upvote is. Upvotes are NOT mandatory, a player has a chance to be upvoted but will probably not always have that luck. Higher levels of this building do not increase the chances of an upvote but increase its value if the upvote is given. DrugWars team is also upvoting content that is of high quality and related to the game and other players. Posts that are high in value, interesting and of use to other players have bigger chances of getting upvoted than those of simple battle shares.
+Pantheon is the only building in CrossWars that influences players' activity outside of the game instead of inside. After each battle, a player has an option to share his wins on social networks or CrossWars forum. If he chooses to share it or the forum, he may get a small reward in return. CrossWars team is upvoting CrossWars battle shares on forum and the higher the Pantheon level, the higher the upvote is. Upvotes are NOT mandatory, a player has a chance to be upvoted but will probably not always have that luck. Higher levels of this building do not increase the chances of an upvote but increase its value if the upvote is given. CrossWars team is also upvoting content that is of high quality and related to the game and other players. Posts that are high in value, interesting and of use to other players have bigger chances of getting upvoted than those of simple battle shares.
 
 ##### 3.1.1.4.5 Research Center
 

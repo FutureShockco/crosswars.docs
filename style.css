@@ -2,7 +2,7 @@
 body {
     background-color: #171717;
     color: #919191;
-    font-family: "Conthrax";
+    font-family: "Roboto Condensed";
 }
 
 .markdown-section a {
@@ -12,6 +12,10 @@ body {
 
 .markdown-section blockquote {
     border-left: 4px solid orange;
+}
+
+.sidebar {
+    font-family: "Conthrax";
 }
 
 .anchor span {
@@ -85,7 +89,7 @@ thead {
     background-color: #272727;
 }
 
-.markdown-section table{
+.markdown-section table {
     display: inline-table;
 }
 
