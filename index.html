@@ -20,10 +20,6 @@
     color: orange;
   }
 
-  .sidebar ul li.active>a {
-    color: orange;
-  }
-
   .markdown-section blockquote {
     border-left: 4px solid orange;
   }
@@ -40,9 +36,13 @@
     color: #e3e3e3;
   }
 
-  .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4 {
+  .markdown-section h1,
+  .markdown-section h2,
+  .markdown-section h3,
+  .markdown-section h4 {
     border-left: 5px solid #00a7ff;
-    padding-left: 15px;;
+    padding-left: 15px;
+    ;
   }
 
   .app-name {
@@ -50,16 +50,35 @@
     text-align: left !important;
   }
 
-  .sidebar-nav p{
+  .sidebar-nav p {
     margin: 0 0 0 15px !important;
     text-align: left !important;
   }
-  .sidebar-toggle{
+
+  .sidebar-toggle {
     background-color: #171717;
   }
 
-  .sidebar-toggle span{
+  .sidebar-toggle span {
     background-color: orange;
+  }
+
+  .sidebar ul {
+    margin: 0px;
+  }
+
+  .app-sub-sidebar{
+    margin-left: 15px!important;
+  }
+
+
+  .sidebar ul li.active>a {
+    background: orange;
+    color: black;
+  }
+
+  .sidebar ul li>a {
+    padding-left: 15px;
   }
 </style>
 
