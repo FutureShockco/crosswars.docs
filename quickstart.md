@@ -12,7 +12,7 @@ MetaMask can also be installed on Android, and iOS.
 Here is how to set up and install MetaMask on a desktop browser:
 
 1. Download and install the MetaMask extension for your browser
-2. Click on the “Get Started” button<
+2. Click on the “Get Started” button
 3. Select “Create a Wallet” and create a password
 4. Write down, store, or memorize your Secret Backup Phrase
 5. Confirm your Secret Backup Phrase to ensure you have it correc
