@@ -16,6 +16,7 @@ INTERFACE
 * [Jobs](overview/jobs.md)
 * [Nfts](overview/nfts.md)
 * [Prizes](overview/prizes.md)
+
 GAMEPLAY
 * [Production](production.md)
 * [Resources](resources.md)

@@ -1,0 +1,176 @@
+.sidebar,
+body {
+    background-color: #171717;
+    color: #919191;
+    font-family: 'Conthrax';
+}
+
+.markdown-section a {
+    color: orange;
+    font-family: 'GoodTimes';
+}
+
+.markdown-section blockquote {
+    border-left: 4px solid orange;
+}
+
+.anchor span {
+    color: #e3e3e3;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section strong {
+    color: #e3e3e3;
+    font-family: 'GoodTimes';
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4 {
+    border-left: 5px solid #00a7ff;
+    padding-left: 15px;
+    font-family: 'GoodTimes';
+}
+
+.app-name {
+    margin: 0 0 0 15px !important;
+    text-align: left !important;
+}
+
+.sidebar-nav p {
+    margin: 0 0 0 15px !important;
+    text-align: left !important;
+}
+
+.sidebar-toggle {
+    background-color: #171717;
+}
+
+.sidebar-toggle span {
+    background-color: orange;
+}
+
+.sidebar ul {
+    margin: 0px;
+}
+
+.app-sub-sidebar {
+    margin-left: 15px !important;
+}
+
+.sidebar ul li.active > a {
+    background: orange;
+    color: black;
+}
+
+.sidebar ul li > a {
+    padding-left: 15px;
+}
+
+.app-sub-sidebar li:before {
+    content: "" !important;
+}
+
+@font-face {
+    font-family: "Calibre";
+    src: url("./fonts/Calibre-Medium.eot");
+    src: url("./fonts/Calibre-Medium.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/Calibre-Medium.woff") format("woff"),
+        url("./fonts/Calibre-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Calibre";
+    src: url("./fonts/Calibre-Semibold.eot");
+    src: url("./fonts/Calibre-Semibold.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/Calibre-Semibold.woff") format("woff"),
+        url("./fonts/Calibre-Semibold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("./fonts/BebasNeue-Regular.eot");
+    src: url("./fonts/BebasNeue-Regular.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/BebasNeue-Regular.woff") format("woff"),
+        url("./fonts/BebasNeue-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "American Captain";
+    src: url("./fonts/AmericanCaptain.eot");
+    src: url("./fonts/AmericanCaptain.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/AmericanCaptain.woff") format("woff"),
+        url("./fonts/AmericanCaptain.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GoodTimes";
+    src: url("./fonts/GoodTimes.eot");
+    src: url("./fonts/GoodTimes.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/GoodTimes.woff") format("woff"), url("./fonts/GoodTimes.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Conthrax";
+    src: url("./fonts/Conthrax.eot");
+    src: url("./fonts/Conthrax.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/Conthrax.woff") format("woff"), url("./fonts/Conthrax.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Legend";
+    src: url("./fonts/Legend.woff") format("woff"), url("./fonts/Legend.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Hindenburg";
+    src: url("./fonts/Hindenburg.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Long_Shot";
+    src: url("./fonts/Long_Shot.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto Condensed Black";
+    src: url("./fonts/RobotoCondensed-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto Condensed Light";
+    src: url("./fonts/RobotoCondensed-Light.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url("./fonts/RobotoCondensed-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
