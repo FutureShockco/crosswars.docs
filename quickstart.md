@@ -46,4 +46,4 @@ The steps to add the Binance Smart Chain network are outlined below:
 ![image](https://user-images.githubusercontent.com/66314810/134300010-4aa83c28-72a8-4839-b0c8-06ef00b6c043.png)
 
 Click on the <b>Save</b> button and the default network will automatically switch to the one you’re just entered. If you have entered everything correctly, you will notice that your Metamask wallet shows BNB balances by default rather than ETH.
-
+1
