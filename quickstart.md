@@ -1,6 +1,6 @@
 
 
-## MetaMask Wallet Setup
+# MetaMask Wallet Setup
 
 ### Downloading and Installing MetaMask
 
@@ -27,4 +27,20 @@ MetaMask can also be installed on Android, and iOS.
 5. Confirm your Secret Backup Phrase to ensure you have it correct 
 
 :warning: **DO NOT** share this phrase with anyone! These words can be used to steal all your accounts. You can't edit or change your Secret Recovery Phrase.        
+
+# Connecting to the Binance Smart Chain
+The steps to add the Binance Smart Chain network are outlined below:
+1. Go to the Settings menu by clicking on the circle on the upper right-hand side of the screen.
+![image](https://user-images.githubusercontent.com/66314810/134299083-79a04cd8-bdf1-4db3-a452-ac26d7338087.png)
+2. Click on "Networks" and "Add Network".
+3. Input the following information:
+
+ Network Name: Binance Smart Chain
+ New RPC URL: https://bsc-dataseed.binance.org/
+ Chain ID: 56
+ Currency Symbol: BNB
+ Block Explorer URL: https://bscscan.com
+
+![image](https://user-images.githubusercontent.com/66314810/134300010-4aa83c28-72a8-4839-b0c8-06ef00b6c043.png)
+Click on the Save button and the default network will automatically switch to the one you’re just entered. If you have entered everything correctly, you will notice that your Metamask wallet shows BNB balances by default rather than ETH.
 
