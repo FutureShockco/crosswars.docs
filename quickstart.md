@@ -31,7 +31,9 @@ MetaMask can also be installed on Android, and iOS.
 # Connecting to the Binance Smart Chain
 The steps to add the Binance Smart Chain network are outlined below:
 1. Go to the Settings menu by clicking on the circle on the upper right-hand side of the screen.
+
 ![image](https://user-images.githubusercontent.com/66314810/134299083-79a04cd8-bdf1-4db3-a452-ac26d7338087.png)
+
 3. Click on "Networks" and "Add Network".
 4. Input the following information:
 
