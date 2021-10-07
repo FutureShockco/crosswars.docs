@@ -1,10 +1,10 @@
 # CWD
 
-CrossWars Dollars (CWD) are an BEP-20 token for the CrossWars game. CWD holders will be able to play the game and participate in governance decisions. Players can earn CWD when they play CrossWars.
+CrossWars Dollars (CWD) are an ERC-20 token for the CrossWars game. CWD holders will be able to play the game and participate in governance decisions. Players can earn CWD when they play CrossWars.
 
 * **Ticker:** CWD
-* **Contract Address:** [https://bscscan.com/token/******](https://bscscan.com/token/********) 
-* **Chain:** Binance Smart Chain \(BEP20\)
+* **Contract Address:** [https://polygonscan.com/token/******](https://polygonscan.com/token/********) 
+* **Chain:** Polygon \(ERC20\)
 * **Supply:** 10.000.000 Tokens
 * **Decimals:** 18
 * **Public Listing Price:** $0.20
