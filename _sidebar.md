@@ -5,7 +5,10 @@ TOKENOMICS
 * [CWD Token](tokenomics.md)
 * [How to get CWD?](market.md)
 
-INTERFACE
+PRIZE POOL
+* [How it works](prizepool.md)
+
+<!-- INTERFACE
 * [Overview](interface/overview.md)
 * [Buildings](interface/buildings.md)
 * [Units](interface/units.md)
@@ -26,7 +29,7 @@ GAMEPLAY
 * [Defense](defense.md)
 * [Jobs](jobs.md)
 * [Gangs](gangs.md)
-* [Formulas](formulas.md)
+* [Formulas](formulas.md) -->
 
 MISCELLANEOUS
 * [Roadmap](roadmap.md)

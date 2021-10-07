@@ -6,7 +6,7 @@ The answer depends on what kind of style a player prefers. Gang members play tog
 
 ## Can I have more than one CrossWars account?
 
-Yes, you can. If you have more than one Steem account, you can play CrossWars with each one of them individually. Additionally, you can create a CrossWars account by logging in with your social media account.
+Yes, you can. If you have more than one polygon wallet, you can play CrossWars with each one of them individually.
 
 ## Why are daily rewards going up and down?
 
@@ -14,7 +14,7 @@ Daily rewards are dependent on investments from all players when they purchase i
 
 ## My daily rewards are dependent on which base?
 
-You will get your daily prize based on your total cash production which is calculated by adding cash productions from all the bases. You can see your total cash production in the Overview.
+You will get your daily prize based on your total credit production which is calculated by adding credit productions from all the bases. You can see your total credit production in the hall of fame.
 
 ## How do I know which base I am currently on?
 
