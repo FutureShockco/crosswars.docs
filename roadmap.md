@@ -1,60 +1,76 @@
 # Roadmap
 
-## 4TH QUARTER 2021
+## 2021
 
-- Game Release
+| Status | Milestone        | Goals |     ETA     |
+| :----: | :--------------- | :---: | :---------: |
+|   ✔    | **Game Release** | 1 / 1 | 4TH QUARTER |
 
-## 1ST QUARTER 2022
+## 2022
 
-- NFT characters
-- Ingame battle system NFT integration
-- Additional contents (buildings, items)
-- Training system for units
+### 1ST QUARTER
+| Status | Milestone                                  | Goals |
+| :----: | :----------------------------------------- | :---: |
+|   ❌    | **NFT characters**                         | 0 / 1 |
+|   ❌    | **Ingame battle system NFT integration**   | 0 / 1 |
+|   ❌    | **Additional contents (buildings, items)** | 0 / 1 |
+|   ❌    | **Training system for units**              | 0 / 1 |
 
-## 2ND QUARTER 2022
+### 2ND QUARTER
+| Status | Milestone                           | Goals |
+| :----: | :---------------------------------- | :---: |
+|   ❌    | **Sound Effects**                   | 0 / 1 |
+|   ❌    | **Job system**                      | 0 / 1 |
+|   ❌    | **Ingame NFT market**               | 0 / 1 |
+|   ❌    | **Contract pledge system**          | 0 / 1 |
+|   ❌    | **Hall of fame system improvement** | 0 / 1 |
 
-- Sound Effects
-- Job system
-- Ingame NFT market
-- Contract pledge system
-- Hall of fame system improvement
+### 3RD QUARTER
+| Status | Milestone                                  | Goals |
+| :----: | :----------------------------------------- | :---: |
+|   ❌    | **Ingame resources exchange**              | 0 / 1 |
+|   ❌    | **Game balancing**                         | 0 / 1 |
+|   ❌    | **Tutorial**                               | 0 / 1 |
+|   ❌    | **Additional contents (buildings, items)** | 0 / 1 |
+|   ❌    | **Defense system**                         | 0 / 1 |
 
-## 3RD QUARTER 2022
 
-- Ingame resources exchange
-- Game balancing
-- Tutorial
-- Additional contents (buildings, items)
-- Defense system
+### 4TH QUARTER
 
-## 4TH QUARTER 2022
+| Status | Milestone                                  | Goals |
+| :----: | :----------------------------------------- | :---: |
+|   ❌    | **Faction system improvement**             | 0 / 1 |
+|   ❌    | **World map & territories improvement**    | 0 / 1 |
+|   ❌    | **Additional contents (buildings, items)** | 0 / 1 |
+|   ❌    | **Wallet overview**                        | 0 / 1 |
 
-- Faction system improvement
-- World map & territories improvement
-- Additional contents (buildings, items)
-- Wallet overview
+## 2023
 
-## 1ST QUARTER 2023
+### 1ST QUARTER
+| Status | Milestone                                  | Goals |
+| :----: | :----------------------------------------- | :---: |
+|   ❌    | **NFT buildings**                          | 0 / 1 |
+|   ❌    | **Ingame building system NFT integration** | 0 / 1 |
+|   ❌    | **Job system improvement**                 | 0 / 1 |
+|   ❌    | **VRF generated events**                   | 0 / 1 |
 
-- NFT buildings
-- Ingame building system NFT integration
-- Job system improvement
-- VRF generated events
+### 2ND QUARTER
+| Status | Milestone                           | Goals |
+| :----: | :---------------------------------- | :---: |
+|   ❌    | **Battle system improvement**       | 0 / 1 |
+|   ❌    | **Building HP and shutdown system** | 0 / 1 |
+|   ❌    | **AI news publishing**              | 0 / 1 |
 
-## 2ND QUARTER 2023
+### 3RD QUARTER
+| Status | Milestone                     | Goals |
+| :----: | :---------------------------- | :---: |
+|   ❌    | **Battle system improvement** | 0 / 1 |
+|   ❌    | **UI improvement**            | 0 / 1 |
+|   ❌    | **Game balancing**            | 0 / 1 |
 
-- Battle system improvement
-- Building HP and shutdown system
-- AI news publishing
-
-## 3RD QUARTER 2023
-
-- Battle system improvement
-- UI improvement
-- Game balancing
-
-## 4TH QUARTER 2023
-
-- Additional servers
-- Achievements
-- Additional contents (buildings, items)
+### 4TH QUARTER
+| Status | Milestone                                  | Goals |
+| :----: | :----------------------------------------- | :---: |
+|   ❌    | **Additional servers**                     | 0 / 1 |
+|   ❌    | **Achievements**                           | 0 / 1 |
+|   ❌    | **Additional contents (buildings, items)** | 0 / 1 |
