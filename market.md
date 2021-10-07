@@ -3,7 +3,7 @@
 ## Dex
 
 * **Ticker:** CWD
-* **Contract Address:** [https://bscscan.com/token/******](https://bscscan.com/token/********) 
-* **Chain:** Binance Smart Chain \(BEP20\)
+* **Contract Address:** [https://polygonscan.com/token/******](https://polygonscan.com/token/********) 
+* **Chain:** Polygon \(ERC20\)
 
 ## Ingame rewards
