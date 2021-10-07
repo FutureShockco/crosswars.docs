@@ -1,8 +1,8 @@
 * [Home](/)
 * [Quick Start](quickstart.md)
 
-TOKENOMICS
-* [CWD Token](tokenomics.md)
+CWD Token
+* [Tokenomics](tokenomics.md)
 * [How to get CWD?](market.md)
 
 PRIZE POOL
