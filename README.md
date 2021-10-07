@@ -11,4 +11,4 @@ CrossWars is a massively multiplayer strategy game based on blockchain.
 
 Further documentation of CrossWars is provided in the following pages.
 
-## Why Binance Smart Chain?
+## Why Polygon Network?
