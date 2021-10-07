@@ -3,7 +3,7 @@
 CrossWars Dollars (CWD) are an BEP-20 token for the CrossWars ecosystem. 
 
 * **Ticker:** CWD
-* **Contract Address:** [https://polygonscan.com/token/******](https://bscscan.com/token/********) 
+* **Contract Address:** [https://polygonscan.com/token/******](https://polygonscan.com/token/********) 
 * **Chain:** Polygon Network \(ERC20\)
 * **Supply:** 10.000.000 CWD
 * **Max Supply:** 10.000.000 CWD

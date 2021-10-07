@@ -28,8 +28,8 @@ MetaMask can also be installed on Android, and iOS.
 
 :warning: **DO NOT** share this phrase with anyone! These words can be used to steal all your accounts. You can't edit or change your Secret Recovery Phrase.        
 
-# Connecting to the Binance Smart Chain
-The steps to add the Binance Smart Chain network are outlined below:
+# Connecting to the Polygon Network
+The steps to add the Polygon Network are outlined below:
 1. Go to the Settings menu by clicking on the circle on the upper right-hand side of the screen.
 
 ![image](https://user-images.githubusercontent.com/66314810/134299083-79a04cd8-bdf1-4db3-a452-ac26d7338087.png)
@@ -37,13 +37,17 @@ The steps to add the Binance Smart Chain network are outlined below:
 3. Click on "Networks" and "Add Network".
 4. Input the following information:
 
-* Network Name: Binance Smart Chain
-* New RPC URL: https://bsc-dataseed.binance.org/
-* Chain ID: 56
-* Currency Symbol: BNB
-* Block Explorer URL: https://bscscan.com
+* Network Name: Polygon Network
+* New RPC URL: 
+  > `https://rpc-mainnet.matic.network` or
+`https://rpc-mainnet.maticvigil.com` or
+`https://rpc-mainnet.matic.quiknode.pro`
 
-![image](https://user-images.githubusercontent.com/66314810/134300010-4aa83c28-72a8-4839-b0c8-06ef00b6c043.png)
+* Chain ID: 137
+* Currency Symbol: MATIC
+* Block Explorer URL: https://polygonscan.com/
+
+![image](https://miro.medium.com/max/341/1*4mi76Y-3qa4kiCZtZE4hdQ.png)
 
 Click on the <b>Save</b> button and the default network will automatically switch to the one you’re just entered. If you have entered everything correctly, you will notice that your Metamask wallet shows BNB balances by default rather than ETH.
 
