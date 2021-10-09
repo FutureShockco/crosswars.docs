@@ -12,7 +12,7 @@ https://starter.investments/#
 
 ## Dex
 
-Swap tokens to CWD (token contract)
+Swap tokens to CWD ([token contract](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085))
 
 https://quickswap.exchange/#/swap
 
