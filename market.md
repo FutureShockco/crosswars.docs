@@ -17,10 +17,11 @@ QuickSwap is available on a desktop internet browser or your mobile device. You 
 
 Here is how to exchange on QuickSwap:
 
-1. Visit **“[quickswap.exchange](https://quickswap.exchange/#/swap)”** on your desktop or mobile browser.
+1. Visit **“[quickswap.exchange](https://quickswap.exchange/#/swap?outputCurrency=0x2946Fea8f5C929c4b22020b4690966a70DC47085&inputCurrency=MATIC)”** on your desktop or mobile browser.
 2. Connect your wallet. **“MetaMask”** and **“Trust Wallet”** are both suitable options. Your wallet should also support the Polygon Network.
 3. Make sure you’re on the **[Swap]** tab to start exchanging tokens.
-4. Select the token you’d like to swap from and the **“CWD Token”**. Paste the CWD token Contact address ([token contract](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085)) “**0x2946Fea8f5C929c4b22020b4690966a70DC47085**”
+4. Select the token you’d like to swap from and the **“CWD Token”**. Paste the CWD token Contact address ([token contract](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085)) 
+- “**[Click Here for Quickswap Exchange Easily](https://quickswap.exchange/#/swap?outputCurrency=0x2946Fea8f5C929c4b22020b4690966a70DC47085&inputCurrency=MATIC)**”
 
 ![image](https://user-images.githubusercontent.com/66314810/136670057-43c7ee7d-94e7-4bda-887b-067cf461597d.png)
 
