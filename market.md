@@ -13,10 +13,11 @@ Here is how to Participate **CWD Token IDO**:
 2. Ensure that you have added **Polygon (MATIC)** Mainnet to your Metamask.
 3. Please confirm that you have bridged USDC over to the Polygon Network.
 4. Then Click on **Crosswars IDO** from https://starter.xyz/#/pools
+5. Now you can Buy CWD token with USDC.
 
 ![image](https://user-images.githubusercontent.com/66314810/136743291-decc0041-03d3-403c-bcf1-8ed42fcf716b.png)
 
-5. Now you can Buy CWD token with USDC.
+
 
 
 
