@@ -6,7 +6,8 @@ There are 3 different ways to obtain CWD tokens:
 
 ## IDO
 **Participate to our public sale rounds.**
-Here is how to Participate **CWD Token IDO**
+
+- Here is how to Participate **CWD Token IDO**
 
 1. Go to Starter's website (https://starter.xyz)
 2. Ensure that you have added **Polygon (MATIC)** Mainnet to your Metamask.
