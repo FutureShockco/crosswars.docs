@@ -3,6 +3,7 @@ body {
     background-color: #171717;
     color: #919191;
     font-family: "Roboto Condensed";
+    font-size: 20px;
 }
 
 .markdown-section a {
