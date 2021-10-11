@@ -40,7 +40,7 @@ Here is how to exchange on QuickSwap:
 
 ![CWD2](https://user-images.githubusercontent.com/66314810/136670161-b0f708ef-bcad-4c11-9871-412b0a7026a6.PNG)
 
-6. Enter an amount and Click [Swap]
+6. Enter an amount and **Click [Swap]**
 7. Preview the transaction in the pop-up window and confirm the request in your wallet.
  
 
