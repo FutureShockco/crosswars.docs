@@ -1,6 +1,6 @@
 # How to get CWD?
 There are 3 different ways to obtain CWD tokens: 
-- Participate to the IDO
+- Participate in the IDO
 - Earn it from ingame prizepool
 - Buy it on a decentralized exchange
 
@@ -24,7 +24,7 @@ Here is how to Participate **CWD Token IDO**:
 ## Dex
 **How to use QuickSwap**
 
-QuickSwap is available on a desktop internet browser or your mobile device. You can exchange CWD tokens easily via QuickSwap.
+QuickSwap is available on your desktop internet browser or your mobile device. You can easily get CWD tokens via QuickSwap.
 
 Here is how to exchange on QuickSwap:
 
@@ -49,6 +49,6 @@ Swap tokens to CWD ([token contract](https://polygonscan.com/token/0x2946Fea8f5C
 
 ## Ingame rewards
 
-Play an receive CWD tokens for your ingame actions.
+Play and receive CWD tokens as a daily reward from the different possibilities such as producing, looting, achieving jobs, and burning.
 
 https://crosswars.io
