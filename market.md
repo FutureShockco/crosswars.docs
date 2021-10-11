@@ -9,7 +9,7 @@ There are 3 different ways to obtain CWD tokens:
 Here is how to Participate **CWD Token IDO**
 
 1. Go to Starter's website (https://starter.xyz)
-2. Ensure that you have added Polygon (MATIC) Mainnet to your Metamask.
+2. Ensure that you have added **Polygon (MATIC)** Mainnet to your Metamask.
 3. Please confirm that you have bridged USDC over to the Polygon Network.
 4. Then Click on **Crosswars IDO** from https://starter.xyz/#/pools
 
@@ -17,9 +17,6 @@ Here is how to Participate **CWD Token IDO**
 
 5. Now you can Buy CWD token with USDC.
 
-
-
-https://starter.investments/#
 
 
 ## Dex
