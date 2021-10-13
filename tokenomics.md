@@ -1,12 +1,12 @@
-# CWD
+# FUTURE
 
-CrossWars Dollars (CWD) are an ERC-20 token for the CrossWars ecosystem. 
+FUTURE (FUTURE) are an ERC-20 token for the CrossWars ecosystem. 
 
-* **Ticker:** CWD
+* **Ticker:** FUTURE
 * **Contract Address:** [https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085) 
 * **Chain:** Polygon Network \(ERC20\)
-* **Supply:** 10.000.000 CWD
-* **Max Supply:** 10.000.000 CWD
+* **Supply:** 10.000.000 FUTURE
+* **Max Supply:** 10.000.000 FUTURE
 * **Decimals:** 18
 
 ## Distribution
