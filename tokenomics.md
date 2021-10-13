@@ -1,6 +1,6 @@
 # FUTURE
 
-FutureShock (FUTURE) are an ERC-20 token for the CrossWars & FutureShock ecosystem. 
+FutureShock Token (FUTURE) are an ERC-20 token for CrossWars and other FutureShock games. 
 
 * **Ticker:** FUTURE
 * **Contract Address:** [https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085) 
@@ -12,14 +12,14 @@ FutureShock (FUTURE) are an ERC-20 token for the CrossWars & FutureShock ecosyst
 ## Distribution
 
 
-| Type 	| Supply 	| % 	| Price     |
-|------	|--------------	|--------------| ---	|
-|Public sale      	|       2.000.000       	|   20%	| $0.15	|
-|Exchange Liquidity      	|      200.000        	|   3%	| $0.15	|
-|Airdrop (Axies, DarkForest)      	|       500.000       	|   5%	| NA	|
-|Airdrop DWD holders	|       500.000       	|   5%	| NA	|
-|DAO Treasury	|       4.000.000       	|   40%	| NA	|
-|Prize pool      	|       250.000       	|   2.5%	| NA	|
-|Team      	|      1.500.000        	|   15%	| NA	|
-|Marketing      	|      600.000        	|   6%	| NA	|
-|Operations      	|      350.000        	|   3.5%	| NA	|
+| Type 	| Supply 	| % 	|
+|------	|--------------	| ---	|
+|Public sale      	|       1.000.000       	|   10%	|
+|Exchange Liquidity      	|      100.000        	|   2%	|
+|Airdrop (Axie, DarkForest)      	|       600.000       	|   6%	|
+|Airdrop DWD holders	|       500.000       	|   5%	| 
+|DAO Treasury	|       5.000.000       	|   50%	|
+|Prize pool      	|       250.000       	|   2.5%	|
+|Team      	|      1.500.000        	|   15%	| 
+|Marketing      	|      600.000        	|   6%	| 
+|Operations      	|      350.000        	|   3.5%	| 
