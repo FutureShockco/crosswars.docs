@@ -5,7 +5,7 @@ There are 3 different ways to obtain CWD tokens:
 - Buy it on a decentralized exchange
 
 ## IDO
-**Participate to our public sale rounds.**
+**Participate in our public sale rounds.**
 
 Here is how to Participate in **CWD Token IDO**:
 

@@ -2,7 +2,7 @@
 
 ## Is being in the gang better than playing solo?
 
-The answer depends on what kind of style a player prefers. Gang members play together and socialize more, offer protection and go on missions together. Individual players can enjoy the game and play it but some features of the game are only available to gangs since they are specifically designed for them and require more players.
+It depends on the player's playing style preferences and habits. Being in a gang means that the player isn't playing alone and is leaning towards socialization more, it also means that the gang members are protecting each other and go on missions together. Whereas, the individual player is enjoying the game differently and focuses on his own strength to advance. Notice that some features are only available to gangs as they require more players to participate and are specifically designed for groups.
 
 ## Can I have more than one CrossWars account?
 
@@ -10,11 +10,15 @@ Yes, you can. If you have more than one polygon wallet, you can play CrossWars w
 
 ## Why are daily rewards going up and down?
 
-Daily rewards are dependent on investments from all players when they purchase instant upgrades with crypto. There will be days when a lot of players will purchase upgrades and the prize will get bigger just as there will be days when more players will purchase upgrades with resources and the prize will be smaller.
+Daily rewards are dependent on investments from all players when they purchase instant upgrades with crypto. It means that when a player purchases an instant upgrade, the amount will go to the prize pool that releases 1% of it everyday. In that sense, there will be days when a lot of players will purchase upgrades and the prize will get bigger just as there will be days when more players will upgrade with resources and the prize will be smaller.
 
-## My daily rewards are dependent on which base?
+## My daily rewards depend on which base?
 
-You will get your daily prize based on your total credit production which is calculated by adding credit productions from all the bases. You can see your total credit production in the hall of fame.
+ The daily prize is based on the total credit production which is calculated by adding the credit productions from all the bases. 
+ 
+## Where can I see my total credit productions?
+
+It is possible to quickly get the total credit productions from any players at the Hall of Fame. 
 
 ## How do I know which base I am currently on?
 
