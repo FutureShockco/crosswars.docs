@@ -11,16 +11,14 @@ CrossWars Dollars (CWD) are an ERC-20 token for the CrossWars ecosystem.
 
 ## Distribution
 
-![](/img/chart.png)
 
 | Type 	| Supply 	| % 	| Price     |
 |------	|--------------	|--------------| ---	|
-|Public round 1      	|       1.500.000       	|   15%	| $0.10	|
-|Public round 2      	|       2.500.000       	|   25%	| $0.15	|
+|Public sale      	|       2.500.000       	|   25%	| $0.10	|
 |Exchange Liquidity      	|      200.000        	|   3%	| $0.15	|
 |Airdrop (Axies, DarkForest)      	|       500.000       	|   5%	| $0.15	|
 |Airdrop DWD holders	|       500.000       	|   5%	| NA	|
-|DAO Treasury	|       2.000.000       	|   20%	| NA	|
+|DAO Treasury	|       3.500.000       	|   35%	| NA	|
 |Prize pool      	|       250.000       	|   2.5%	| NA	|
 |Team      	|      1.500.000        	|   15%	| NA	|
 |Marketing      	|      600.000        	|   6%	| NA	|
