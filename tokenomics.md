@@ -14,8 +14,8 @@ FutureShock Token (FUTURE) are an ERC-20 token for CrossWars and other FutureSho
 
 | Type 	| Supply 	| % 	|
 |------	|--------------	| ---	|
-|Public sale      	|       1.000.000       	|   10%	|
-|Exchange Liquidity      	|      100.000        	|   2%	|
+|Token sale      	|       1.000.000       	|   10%	|
+|Exchange Liquidity      	|      200.000        	|   2%	|
 |Airdrop (Axie, DarkForest)      	|       600.000       	|   6%	|
 |Airdrop DWD holders	|       500.000       	|   5%	| 
 |DAO Treasury	|       5.000.000       	|   50%	|
