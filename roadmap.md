@@ -1,12 +1,12 @@
 # Roadmap
 
-## 2021
+## 2023
 
 | Status | Milestone        | Goals |     ETA     |
 | :----: | :--------------- | :---: | :---------: |
 |   ✔    | **Game Release** | 1 / 1 | 4TH QUARTER |
 
-## 2022
+## 2024
 
 ### 1ST QUARTER
 | Status | Milestone                                  | Goals |
@@ -44,7 +44,7 @@
 |   ❌    | **Additional contents (buildings, items)** | 0 / 1 |
 |   ❌    | **Wallet overview**                        | 0 / 1 |
 
-## 2023
+## 2025
 
 ### 1ST QUARTER
 | Status | Milestone                                  | Goals |
