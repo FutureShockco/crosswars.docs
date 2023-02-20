@@ -1,12 +1,12 @@
 # FUTURE
 
-FutureShock Token (FUTURE) are an ERC-20 token for CrossWars and other FutureShock games. 
+CrossWars Dollars Token (CWD) are an ERC-20 token for CrossWars, the strategy and simulation game on blockchain. 
 
-* **Ticker:** FUTURE
-* **Contract Address:** [https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085) 
+* **Ticker:** CWD
+* **Contract Address:** [https://arbiscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085](https://polygonscan.com/token/0x2946Fea8f5C929c4b22020b4690966a70DC47085) 
 * **Chain:** Polygon Network \(ERC20\)
-* **Supply:** 10.000.000 FUTURE
-* **Max Supply:** 10.000.000 FUTURE
+* **Supply:** 10.000.000 CWD
+* **Max Supply:** 10.000.000 CWD
 * **Decimals:** 18
 
 ## Distribution
@@ -14,12 +14,7 @@ FutureShock Token (FUTURE) are an ERC-20 token for CrossWars and other FutureSho
 
 | Type 	| Supply 	| % 	|
 |------	|--------------	| ---	|
-|Token sale      	|       1.000.000       	|   10%	|
-|Exchange Liquidity      	|      200.000        	|   2%	|
-|Airdrop (Axie, DarkForest)      	|       600.000       	|   6%	|
+|Token sale (Launchpad)      	|       9.000.000       	|   90%	|
 |Airdrop DWD holders	|       500.000       	|   5%	| 
-|DAO Treasury	|       5.000.000       	|   50%	|
-|Prize pool      	|       250.000       	|   2.5%	|
-|Team      	|      1.500.000        	|   15%	| 
-|Marketing      	|      600.000        	|   6%	| 
-|Operations      	|      350.000        	|   3.5%	| 
+|Prize pool      	|       500.000       	|   5%	|
+
