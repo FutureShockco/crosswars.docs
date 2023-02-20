@@ -2,7 +2,7 @@
 
 Welcome to the CrossWars game documentation website.
 
-<img src="../img/cwlogo.png" alt="logo" width="500"/>
+<img src="img/cwlogo.png" alt="logo" width="500"/>
 
 [Click here to access through the official web app](https://crosswars.io/#/). 
 
